@@ -88,7 +88,7 @@
 
 <table class="table" border="0" width="100%">
   <tr align="center">
-    <td><img width="300" src="https://github.com/belyakovko/belyakovko/blob/e3cc23c7c71e4e5c380f867704c30800b1a8fab0/assets/certificate_course_qae_ru_1.png" /></td>
-    <td><img width="300" src="https://github.com/belyakovko/belyakovko/blob/e3cc23c7c71e4e5c380f867704c30800b1a8fab0/assets/certificate_course_qae_ru_2.png" /></td>
+    <td><img width="300" src="https://github.com/IDoronicheva/IDoronicheva/blob/main/0380a0326d8.png" /></td>
+     /></td>
   </tr>
 </table>
