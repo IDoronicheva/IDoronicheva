@@ -3,7 +3,7 @@
 
 ***
 
-<img align="right" width="500" height="330" src="https://github.com/belyakovko/belyakovko/blob/5b4234e8cadb01a95f83e9bd595ec3414985e255/assets/gradient-npl-illustration.png" />
+<img align="right" width="500" height="330" src="https://github.com/IDoronicheva/IDoronicheva/blob/main/6551221.jpg" />
 
 ### 🔍 Обо мне
 
@@ -15,60 +15,80 @@
 
 🔗 **Открыта к предложениям о сотрудничестве!** — если в вашей компании есть подходящая вакансия, буду рада обсудить детали. 🙌
 
-📫 **Как связаться**: <img height="20" width="20" src="https://cdn.simpleicons.org/telegram/26A5E4" alt="@idoronicheva"/> [@idoronicheva](https://t.me/idoronicheva)
+📫 **Как связаться**: 
+- <img height="20" width="20" src="https://github.com/belyakovko/belyakovko/blob/259dfb7451faa9d0b906502b658f67e51f61f9dd/assets/icon_mail.png"/> [i.doronichewa@yandex.ru](mailto:i.doronichewa@yandex.ru)
+- <img height="20" width="20" src="https://cdn.simpleicons.org/telegram/26A5E4" alt="@idoronicheva"/> [@idoronicheva](https://t.me/idoronicheva)
 
 
-## Databases
+## Тестирование API и интеграций
+<div>
+  <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
+  <img src="https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png" title="SOAP" alt="SOAP" width="40" height="40"/>&nbsp
+  <img src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp
+  <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" title="REST" alt="REST" width="40" height="40"/>&nbsp
+  <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" title="Discord" alt="Discord" width="40" height="40"/>&nbsp
+</div>
 
-<table class="table-primer"border="0" width="100%">
+## Тестирование Web и Мобильных приложений
+<div>
+  <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
+  <img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" title="HTTP" alt="HTTP" width="40" height="40"/>&nbsp
+  <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp
+  <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp
+  <img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
+</div>
+
+## Логи и мониторинги
+<div>
+  <img src="https://raw.githubusercontent.com/maliceio/kibana/master/docs/kibana-logo.png" title="Kibana" alt="Kibana" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sentry.svg" title="Sentry" alt="Sentry" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Grafana-Dark.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp
+  <img src="https://avatars.githubusercontent.com/u/28545596?s=200&v=4" title="Jaeger" alt="Jaeger" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp
+</div>
+
+## Тестовая документация 
+  <div>
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4b/7d/d4/4b7dd461-16e6-e245-af56-512fc8aa21e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp" title="Yandex Tracker" alt="Yandex Tracker" width="40" height="40"/>&nbsp
+    <img src="https://logosandtypes.com/wp-content/uploads/2023/03/clickup.svg" title="ClickUp" alt="ClickUp" width="40" height="40"/>&nbsp
+    <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="Test It" alt="Test It" width="40" height="40"/>&nbsp
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp
+  </div>
+
+## Работа с базами данных
+<div>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" title="Mongo DB" alt="Mongo DB" width="40" height="40"/>&nbsp
+  <img src="https://cdn.worldvectorlogo.com/logos/metabase.svg" title="Metabase" alt="Metabase" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/512px-DBeaver_logo.svg.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
+</div>
+
+## Автотесты
+<div>
+  <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp
+  <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp
+  <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Dark.svg" title="Actions" alt="Actions" width="40" height="40"/>&nbsp
+  <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sublime-Dark.svg" title="Sublime" alt="Sublime" width="40" height="40"/>&nbsp
+
+</div>
+
+<!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
+
+<br>
+
+## Практика и стажировка
+
+
+## Образование
+
+<table class="table" border="0" width="100%">
   <tr align="center">
-    <td><img height="48" width="48" src="https://cdn.simpleicons.org/metabase/509EE3" /></td>
-    <td><img height="64" width="64" src="https://cdn.simpleicons.org/mysql/4479A1" /></td>
-    <td><img height="64" width="64" src="https://cdn.simpleicons.org/postgresql/4169E1" /></td>
-  </tr>
-  <tr align="center">
-    <td>Metabase</td>
-    <td>MySQL</td>
-    <td>PostgreSQL</td>
+    <td><img width="300" src="https://github.com/belyakovko/belyakovko/blob/e3cc23c7c71e4e5c380f867704c30800b1a8fab0/assets/certificate_course_qae_ru_1.png" /></td>
+    <td><img width="300" src="https://github.com/belyakovko/belyakovko/blob/e3cc23c7c71e4e5c380f867704c30800b1a8fab0/assets/certificate_course_qae_ru_2.png" /></td>
   </tr>
 </table>
-
-## IDEs/Editors
-
-<img height="48" width="48" src="https://cdn.simpleicons.org/postman/FF6C37" /> 
-
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-
-## IDEs/Editors
-
-![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com)
-[![Postman](https://img.shields.io/badge/-Postman-000010?style=for-the-badge&logo=postman)](https://www.postman.com)
-
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-
-
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-# Образование
-
-Postman  SOAP  Kafka  REST  Swagger  Docker 
-
-![Stat](https://github-readme-stats.vercel.app/api?username=belyakovko&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belyakovko&langs_count=8)
-![](https://github-profile-trophy.vercel.app/?username=belyakovko)
