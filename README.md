@@ -12,10 +12,26 @@
 - 🛠️ Стремлюсь освоить **автоматизированное тестирование** и лучшие практики QA.
 - ⚡ Моя цель - **стать высококлассным QA-специалистом**, который вносит значимый вклад в **обеспечение безупречного качества продукта и его развитие**. 
 - 🤝 **Открыт к сотрудничеству** и стремлюсь присоединиться к сильной команде высококвалифицированных специалистов для работы над инновационными проектами.
+- 
+### 🛠 Что умею
+
+| Навык | Уровень |
+|---|---|
+| Postman | 💪 Уверенное владение — REST API, коллекции, переменные, тесты |
+| SQL | 💪 SELECT, JOIN, подзапросы, фильтрация, агрегация — мой комфорт |
+| Теория тестирования | Виды, уровни, техники тест-дизайна (КЭ, ГЗ, попарное и др.) |
+| Тестовая документация | Тест-кейсы, чек-листы, баг-репорты |
+| DevTools | Анализ запросов, консоль, элементы |
+| Git & GitHub | Базовые операции, работа с репозиториями |
+| Charles / Fiddler | Перехват и подмена трафика |
+| Jira / TestRail | Ведение задач и тестовой документации |
+| Основы автоматизации | Базовое понимание, первые шаги (и большие планы) |
+
 
 🔗 **Открыта к предложениям о сотрудничестве!** — если в вашей компании есть подходящая вакансия, буду рада обсудить детали. 🙌
 
-📫 **Как связаться**: 
+📫 **Как связаться**:
+ 📄 Резюме: https://hh.ru/resume/bbe8f906ff10cdd3760039ed1f344d4e5a7348
 - <img height="20" width="20" src="https://github.com/belyakovko/belyakovko/blob/259dfb7451faa9d0b906502b658f67e51f61f9dd/assets/icon_mail.png"/> [i.doronichewa@yandex.ru](mailto:i.doronichewa@yandex.ru)
 - <img height="20" width="20" src="https://cdn.simpleicons.org/telegram/26A5E4" alt="@idoronicheva"/> [@idoronicheva](https://t.me/idoronicheva)
 
@@ -65,17 +81,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/512px-DBeaver_logo.svg.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
 </div>
 
-## Автотесты
-<div>
-  <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp
-  <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp
-  <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Dark.svg" title="Actions" alt="Actions" width="40" height="40"/>&nbsp
-  <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sublime-Dark.svg" title="Sublime" alt="Sublime" width="40" height="40"/>&nbsp
 
-</div>
 
 <!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
 
@@ -88,7 +94,7 @@
 
 <table class="table" border="0" width="100%">
   <tr align="center">
-    <td><img width="300" src="https://github.com/IDoronicheva/IDoronicheva/blob/main/0380a0326d8.png" /></td>
-     /></td>
+    <td><img width="300" src="https://github.com/IDoronicheva/IDoronicheva/blob/main/0380a0326d8.png" />
+    </td>
   </tr>
 </table>
