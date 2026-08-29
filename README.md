@@ -15,7 +15,7 @@
 
 🔗 **Открыта к предложениям о сотрудничестве!** — если в вашей компании есть подходящая вакансия, буду рада обсудить детали. 🙌
 
-📫 **Как связаться**: <img height="20" width="20" src="https://cdn.simpleicons.org/telegram/26A5E4" alt="@KirBelyakov"/> [@KirBelyakov](https://t.me/KirBelyakov)
+📫 **Как связаться**: <img height="20" width="20" src="https://cdn.simpleicons.org/telegram/26A5E4" alt="@idoronicheva"/> [@idoronicheva](https://t.me/idoronicheva)
 
 
 ## Databases
